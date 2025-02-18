@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "659162066863",
+    "project_id": "kanndalearning",
+    "storage_bucket": "kanndalearning.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659162066863:android:da57ea76124cf42f25c95a",
+        "android_client_info": {
+          "package_name": "com.discipline"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXm3901oUDAEgpmReF48j7hjbiVEudars"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659162066863:android:c3eccb04acc6e3ae25c95a",
+        "android_client_info": {
+          "package_name": "com.kannadalearning"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXm3901oUDAEgpmReF48j7hjbiVEudars"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

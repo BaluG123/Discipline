@@ -116,4 +116,11 @@ dependencies {
     } else {
         implementation jscFlavor
     }
+
+    implementation 'androidx.core:core:1.6.0'
+    implementation platform('com.google.firebase:firebase-bom:32.0.0')
+    implementation 'com.google.firebase:firebase-messaging'
 }
+
+apply plugin: 'com.google.gms.google-services'
+apply from: file("../../node_modules/react-native-vector-icons/fonts.gradle")
